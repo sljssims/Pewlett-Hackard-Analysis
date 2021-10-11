@@ -30,9 +30,9 @@ You have finally finished extracting and recreating the data, and you have a goo
 ![Mentorship Eligibility](https://user-images.githubusercontent.com/87907584/136862475-550713be-31f9-42b2-b1f5-99613c38f0a8.PNG) 
 
 
-## How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+## How many roles will need to be filled to make an impact?
 
-## Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+## Are there enough qualified, retirement-ready employees to mentor the next generation of Pewlett Hackard employees?
 
 ## What are two additional queries or tables we could perform to provide more insight?
 
