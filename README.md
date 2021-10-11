@@ -17,3 +17,4 @@ Initially we are provided with large set of data.  Pretty much all the employee 
 ### •	**Unique Titles and Data**
 The final list for retires was obtained by adding the department name to the dataset.  All that remained was to add the department names to the current_emp table .  After using the SELECT and JOIN functions, we view our dataset and realize that some people are listed twice.  By using the DISTINCT ON, GROUPBY,  and COUNT() functions we can find those who are at retirement age by their most recent job title.   
 ![Duplicates](https://user-images.githubusercontent.com/87907584/136798773-c993abad-9ede-4ae3-9113-2f4e7dc44e27.PNG)
+![Unique Titles](https://user-images.githubusercontent.com/87907584/136800023-bf5153ab-b0f5-4023-91bf-55d42b06b819.PNG)
