@@ -20,21 +20,17 @@ The final list for retires was obtained by adding the department name to the tab
 
 
 ### •	**Retiring Titles and Data**
-The unique_titles table lists each individual employee that meets the retirement requirement.  Information included are the emp_no, first_name, last_name, and title.  The unique titles table provides a summary total of retirees per department. 
+The unique_titles table lists each individual employee that meets the retirement requirement.  Information included are the emp_no, first_name, last_name, and title.  The unique titles table provides a summary total of retirees per department. The table shows that there are 90,398 associates who met the retirement requirement. 
 
 ![Retiring Titles](https://user-images.githubusercontent.com/87907584/136805564-46f4eb1b-ad54-49bc-b4f6-6c19c07ef000.PNG)
 ![image](https://user-images.githubusercontent.com/87907584/136861527-07ed0e99-e41c-4877-8aad-6b2507fc920d.png)
 
 ### • **Mentorship Eligibility and Data**
-You have finally finished extracting and recreating the data, and you have a good idea of what to expect in the future.  The company would like to adopt a mentorship program for associates born between the dates of 01/01/1965 and 12/31/1965.  To complete this task, the SELECT DISTINCT ON function and two inner joins pull the information into the table.
+You have finally finished extracting and recreating the data, and you have a good idea of what to expect in the future.  The company would like to adopt a mentorship program for associates born between the dates of 01/01/1965 and 12/31/1965.  To complete this task, the SELECT DISTINCT ON function and two inner joins pull the information into the table. There are 1549 employees who are currently eligible for retirement. 
 ![Mentorship Eligibility](https://user-images.githubusercontent.com/87907584/136862475-550713be-31f9-42b2-b1f5-99613c38f0a8.PNG) 
 
 
-## How many roles will need to be filled to make an impact?
-
-## Are there enough qualified, retirement-ready employees to mentor the next generation of Pewlett Hackard employees?
-
-## What are two additional queries or tables we could perform to provide more insight?
-
+## Summary
+The hardest hit departments will be the Senior Engineering, Senior Staffing, and Engineering departments. These three departments account for almost 80 percent of the workforce retiring.  With only a little over 1500 associates eligible for the mentorship program, Pewlett Hackard is already behind the ball. Over 90, 398 associates are currently eligible for retirement. A breakdown of associates by location would help to identify the locations needed the most. Additionally, expanding the age requirement for mentorship might help to bridge the gap in the mentorship program.
 
 
