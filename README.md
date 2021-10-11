@@ -26,7 +26,7 @@ The unique_titles table lists each individual employee that meets the retirement
 ![image](https://user-images.githubusercontent.com/87907584/136861527-07ed0e99-e41c-4877-8aad-6b2507fc920d.png)
 
 ### • **Mentorship Eligibility and Data**
-You have finally finished extracting and recreating the data, and you have a good idea of what to expect in the future.  The company would like to adopt a mentorship program for associates born between the dates of 01/01/1965 and 12/31/1965.  To complete this task, the SELECT DISTINCT ON function and two inner joins pull the information into the table. There are 1549 employees who are currently eligible for retirement. 
+You have finally finished extracting and recreating the data, and you have a good idea of what to expect in the future.  The company would like to adopt a mentorship program for associates born between the dates of 01/01/1965 and 12/31/1965.  The SELECT DISTINCT ON function and two inner joins pull the information into the table. There are 1549 employees who are currently eligible for retirement. 
 ![Mentorship Eligibility](https://user-images.githubusercontent.com/87907584/136862475-550713be-31f9-42b2-b1f5-99613c38f0a8.PNG) 
 
 
