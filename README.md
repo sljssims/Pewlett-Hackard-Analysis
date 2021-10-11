@@ -20,8 +20,9 @@ The final list for retires was obtained by adding the department name to the dat
 ![Unique Titles](https://user-images.githubusercontent.com/87907584/136800023-bf5153ab-b0f5-4023-91bf-55d42b06b819.PNG)
 
 
-•	**Retiring Titles and Data**
+### •	**Retiring Titles and Data**
 The unique_titles table lists each individual employee that meets the retirement requirement.  Information included are the emp_no, first_name, last_name, and title.  To condense it even more, we can recreate the data to show the summary report of retirees by job title.
 
+![Retiring Titles](https://user-images.githubusercontent.com/87907584/136805564-46f4eb1b-ad54-49bc-b4f6-6c19c07ef000.PNG)
 
 
