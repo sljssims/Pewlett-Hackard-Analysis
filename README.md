@@ -31,6 +31,6 @@ You have finally finished extracting and recreating the data, and you have a goo
 
 
 ## Summary
-The hardest hit departments will be the Senior Engineering, Senior Staffing, and Engineering departments. These three departments account for almost 80 percent of the workforce retiring.  With only a little over 1500 associates eligible for the mentorship program, Pewlett Hackard is already behind the ball. Over 90, 398 associates are currently eligible for retirement. A breakdown of associates by location would help to identify the locations needed the most. Additionally, expanding the age requirement for mentorship might help to bridge the gap in the mentorship program.
+The hardest hit departments will be the Senior Engineering, Senior Staffing, and Engineering departments. These three departments account for almost 80 percent of the workforce retiring.  With only a little over 1500 associates eligible for the mentorship program, Pewlett Hackard is already behind the ball. Over 90,398 associates are currently eligible for retirement. A breakdown of associates by location would help to identify the locations needed the most. Additionally, expanding the age requirement for mentorship might help to bridge the gap in the mentorship program.
 
 
