@@ -10,6 +10,6 @@ The purpose of this Analysis is to prepare for the upcoming exit of baby boomers
 
 ## Results: Provide a bulleted list with four major points from the two analysis deliverables. 
 
-•	Retirement Table and Data
+### •	Retirement Table and Data
 Initially we are provided with large set of data.  Pretty much all the employee data from the company.  Employee numbers, department titles, birth dates, hire dates, and end hire dates are included.  This means that information for employees who no longer work there is in included in the dataset and needed to be parsed out.  To obtain the most current list of employees meeting the retirement requirement, employee data was filtered using the birth_date, hire_date, and to_date variables. 
 ![Filtered Data](https://user-images.githubusercontent.com/87907584/136791092-9acd3ddf-8d47-4c4a-a481-694a90f23230.PNG)
